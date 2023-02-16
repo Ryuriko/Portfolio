@@ -1,0 +1,16 @@
+.navbar-utama {
+    background-color: rgba(0, 0, 0, 0);
+}
+.backround-video {
+    position: fixed;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+}
+/* .text-welcome {
+    position: absolute;
+    top: 20%;
+    left: 43.5%;
+} */
